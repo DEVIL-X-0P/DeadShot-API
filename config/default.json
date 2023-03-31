@@ -1,0 +1,39 @@
+{
+  "Database": {
+    "HOST": "db4free.net",
+    "USER_NAME": "monkya",
+    "PASSWORD": "gapij17976@dogemn.com",
+    "DB_NAME": "monkyaxd"
+  },
+  "SecureAccess": {
+    "whitelistDomains": [],
+    "enable": false
+  },
+  "App": {
+    "PORT": 8080,
+    "WEB_HOST": "http://localhost:8080/",
+    "tokenExpiresTime": "2h",
+    "secret": "i-love-image-portal",
+    "Link": "",
+    "Login_Link":"",
+    "SECRET": "IP-TEST",
+    "Token_ExpiresTime": "2h"
+  },
+  "BOT": {
+    "Token": ""
+  },
+  "AWS": {
+    "AccessKey": "",
+    "SecretKey": "",
+    "Region": "",
+    "Bucket": ""
+  },
+  "SMTP": {
+    "From": "",
+    "FromEmail": "",
+    "Host": "",
+    "Service": "",
+    "User": "",
+    "Password": ""
+  }
+}
